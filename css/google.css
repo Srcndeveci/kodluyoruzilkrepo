@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+a{
+    text-decoration: none;
+}
+div #fotoesat {
+    width: 351;
+    height: 113;
+}
+
+table {
+    border: 0;
+    width: 100%;
+
+}
+
+.btn {
+
+    border: none;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+#table-bg {
+    background-color: #EEEEEE;
+    
+}
+
+#zz {
+    width: 37%;
+    background-color: #7EE5DA;
+}
+#xx {
+    background-color: #70CCC2;
+    text-align: center;
+}
+#tt {
+   text-align: center;
+   background-color: #62B3AA;
+}
+p {
+    font-size: -1;
+    text-align: center;
+    position: relative;
+    top: 210px;
+
+}
